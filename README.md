@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saksham Dhiman!
 
 🎓 A passionate student pursuing a path in **AI & Machine Learning**  
-🧠 Currently in Polytechnic CSE | Future: B.Tech in AI & ML  
+🎓 Class 11 Student | 📚 PCM (Physics, Chemistry, Math)  
 🇮🇳 Based in India | 🧑‍💻 Tech enthusiast | 🏗️ Building the future with code
 
 ---
